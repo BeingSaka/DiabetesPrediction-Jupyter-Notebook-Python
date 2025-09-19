@@ -1,4 +1,4 @@
-# Diabetes Prediction Using Machine Learning with Python and Jupyter Notebook
+# Diabetes Prediction Using Machine Learning with Python and Jupyter Notebook.
 # Overview
 This project focuses on developing a machine learning model to predict the likelihood of diabetes in patients based on various medical data inputs such as glucose levels, BMI, age, and other features. The goal is to build an accurate predictive model that assists in early detection and intervention for diabetes.
 
