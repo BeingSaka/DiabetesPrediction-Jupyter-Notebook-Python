@@ -2,6 +2,11 @@
 # Overview
 This project is a self-initiated deep dive into leveraging machine learning to address a significant health challenge: the early prediction of diabetes. My objective was to move beyond theoretical concepts and build a practical, data-driven solution that provides actionable insights. The process involved meticulous data collection, rigorous analysis, and the implementation of a classification model. A key focus was on data integrity, where I applied specific validation strategies and cleaning techniques to ensure the reliability of the model's output. The resulting model serves as a clear demonstration of how attention to detail and a methodical approach can translate complex data into a tool for effective decision-making in a healthcare context.
 
+# Technical Details & Data Integrity
+In this project, I focused on several key technical steps to ensure the model's performance and reliability. A primary challenge was managing data features with varying scales, which can skew the model's learning process. To overcome this, I tactically applied StandardScaler to normalize the dataset. This crucial data cleaning technique ensured that all features were on a uniform scale, significantly improving the model's ability to learn from the data accurately.
+
+Furthermore, I used the accuracy_score metric to quantitatively validate the model's performance. By measuring the percentage of correct predictions, I was able to verify that the solution not only functions but also delivers a high level of accuracy. This demonstrates a commitment to creating reliable, performance-driven solutions that translate into effective decision-making.
+
 # Table of Contents
 	* Project Description
 	* Dataset
